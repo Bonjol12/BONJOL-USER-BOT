@@ -1,6 +1,6 @@
 {
-  "name": "GEMBEL-ELITE",
-  "description": "[GEMBEL-ELITE] USERBOT INI DIBUAT UNTUK PARA GEMBEL YANG GADA KERJAAN.",
+  "name": "BONJOL-USER-BOT",
+  "description": "[BONJOL-USER-BOT] USERBOT INI DIBUAT UNTUK PARA GEMBEL YANG GADA KERJAAN.",
   "logo": "https://telegra.ph/file/70ceb9eb8300d4b58f84a.jpg",
   "keywords": [
     "telegram",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/jerryadisaputra/GEMBEL-ELITE",
-  "telegram": "https://t.me/Bacot_anjingg",
-  "success_url": "https://t.me/ALGTRR",
+  "repository": "https://github.com/Bonjol12/BONJOL-USER-BOT",
+  "telegram": "https://t.me/APASIKONTOL",
+  "success_url": "https://t.me/GirlHd",
   "stack": "container",
   "env": {
     "API_KEY": {
